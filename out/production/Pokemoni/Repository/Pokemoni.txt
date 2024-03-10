@@ -1,0 +1,5 @@
+Pikachu,electric,20,100
+Charizard,foc,40,200
+Bulbasaur,pamant,10,100
+Jigglypuff,aer,20,300
+Snorlax,aer,15,1000
