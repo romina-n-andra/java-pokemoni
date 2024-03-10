@@ -11,7 +11,7 @@ public class Repository  {
 
     public void citesteFisier() {
         try {
-            File file = new File("/Users/romina.n.andra/Desktop/Pokemoni/src/Repository/Pokemoni.txt");
+            File file = new File("./Pokemoni.txt");
             Scanner scanner = new Scanner(file);
 
             while(scanner.hasNextLine()){
